@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/aryanagha/VcUserBot",
+    "repository": "https://github.com/aryanagha/aryanamusicplayertestt",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
